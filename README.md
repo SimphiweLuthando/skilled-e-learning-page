@@ -2,7 +2,7 @@
 
 This is a landing page I built for an e-learning company which offers a wide range of online courses to help users develop new skills and advance their careers..
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://skilled-e-learning-page.vercel.app/
 
 ![Design Preview](preview-copy.jpg)
 
